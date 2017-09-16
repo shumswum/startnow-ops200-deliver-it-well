@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: your-heroku-app-name
+      appname: crs-circle-ci
 machine:
   node:
     version: 8.1.4
